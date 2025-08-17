@@ -96,19 +96,16 @@ Below are screenshots to help you visualize the setup and running system:
 ![Image 1](public/Screenshot%20(795).png)
 
 ### Image 2
-![Image 2](public/Screenshot%20(796).png)
+![Image 2](public/Screenshot%20(797).png)
 
 ### Image 3
-![Image 3](public/Screenshot%20(797).png)
+![Image 3](public/Screenshot%20(798).png)
 
 ### Image 4
-![Image 4](public/Screenshot%20(798).png)
+![Image 4](public/Screenshot%20(799).png)
 
 ### Image 5
-![Image 5](public/Screenshot%20(799).png)
-
-### Image 6
-![Image 6](public/Screenshot%20(800).png)
+![Image 5](public/Screenshot%20(800).png)
 
 ---
 This guide will help you set up and test the complete authentication system with role-based access control.
