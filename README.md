@@ -1,5 +1,12 @@
 # 🚀 Complete Setup Guide - Authentication System
 
+## 🌐 Live Demo
+
+- **Frontend (Site):** [https://customer-management-system-weld-five.vercel.app](https://customer-management-system-weld-five.vercel.app)
+- **Backend (API Server):** [https://customer-management-system-cktj.onrender.com](https://customer-management-system-cktj.onrender.com)
+
+You can visit the site and test all features live!
+
 ## 📋 Prerequisites
 
 - Node.js (v16 or higher)
