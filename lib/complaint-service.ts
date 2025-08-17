@@ -7,7 +7,7 @@ import type {
   PriorityStat 
 } from './types'
 
-const API_BASE_URL = 'http://localhost:5000/api'
+const API_BASE_URL = 'https://customer-management-system-cktj.onrender.com/api'
 
 class ComplaintService {
   private getAuthHeaders(): HeadersInit {
